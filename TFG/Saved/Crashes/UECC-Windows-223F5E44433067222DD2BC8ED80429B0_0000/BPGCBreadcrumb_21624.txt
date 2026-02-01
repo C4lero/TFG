@@ -1,0 +1,2 @@
+/Game/Levels/L_Playground.L_Playground:PersistentLevel.BP_NPC_C_1.BP_DialogueComponent
+/Game/Dialogue/BP_DialogueComponent.BP_DialogueComponent_C

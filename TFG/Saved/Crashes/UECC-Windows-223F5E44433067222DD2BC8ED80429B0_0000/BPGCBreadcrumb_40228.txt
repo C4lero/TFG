@@ -1,0 +1,2 @@
+/Game/Dialogue/BP_DialogueComponent.Default__BP_DialogueComponent_C
+/Game/Dialogue/BP_DialogueComponent.BP_DialogueComponent_C
